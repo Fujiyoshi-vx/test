@@ -34,7 +34,7 @@ function draw(){
  
     x = _x;
 		y = _y;
-		recordGIF();
+	//	recordGIF();
   }
-
+recordGIF();
 }
